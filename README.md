@@ -27,7 +27,9 @@ It can:
 * Guide users to relevant information from public health authorities
 
 
-https://codelabs.developers.google.com/codelabs/chatbots-dialogflow-appointment-scheduler/#0
+1) https://codelabs.developers.google.com/codelabs/chatbots-dialogflow-appointment-scheduler/#0
+
+2) https://cloud.google.com/dialogflow/docs/tutorials/covid19-rapid-response
 
 You can:
 * Launch your bot faster with curated content
