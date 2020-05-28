@@ -26,6 +26,9 @@ It can:
 * Help users understand possible symptoms and severity
 * Guide users to relevant information from public health authorities
 
+
+https://codelabs.developers.google.com/codelabs/chatbots-dialogflow-appointment-scheduler/#0
+
 You can:
 * Launch your bot faster with curated content
 * Customize to match your website and add content to address your organization 
